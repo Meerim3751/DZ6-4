@@ -1,0 +1,18 @@
+.input button {
+    width: 120px;
+    height: 47px;
+}
+.input input{
+    width: 800px;
+    height: 40px;
+}
+
+.link {
+   text-align: center;
+   font-size: 21px;
+}
+
+.link_h1 {
+    font-size: 50px;
+    text-align: center;
+ }
